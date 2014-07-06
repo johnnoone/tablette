@@ -1,3 +1,9 @@
+"""
+    tablette.utils
+    ~~~~~~~~~~~~~~
+
+"""
+
 __all__ = ['terminal_size']
 
 import fcntl, termios, struct
